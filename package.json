@@ -4,7 +4,7 @@
   "description": "秘密の匿名掲示板",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "license": "MIT",
   "dependencies": {
