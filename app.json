@@ -1,0 +1,8 @@
+{
+  "name": "secret-bosrd",
+  "description": "買い物代行サービス",
+  "repository": "https://github.com/May4bwu/secret-board",
+  "logo": "",
+  "keywords": ["none"],
+  "image": "heroku/nodejs"  
+}
